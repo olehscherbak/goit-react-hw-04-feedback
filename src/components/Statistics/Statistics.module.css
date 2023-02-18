@@ -1,0 +1,11 @@
+.statistics {
+  margin: 0 auto 20px;
+  width: 200px;
+}
+
+.statistiscItem {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
